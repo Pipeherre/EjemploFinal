@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1eb8fa8e-19b5-406e-8289-2e74ff3144a6" name="Changes" comment="Este es el primer commit de  la rama uno, deberia solo tener lo de esta rama que es el archivo de RamaUno" />
+    <list default="true" id="1eb8fa8e-19b5-406e-8289-2e74ff3144a6" name="Changes" comment="Este es el primer commit de  la rama uno, deberia solo tener lo de esta rama que es el archivo de RamaUno">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
