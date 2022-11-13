@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1eb8fa8e-19b5-406e-8289-2e74ff3144a6" name="Changes" comment="Este es el commit de la rama main para agregar la rama dos">
+      <change afterPath="$PROJECT_DIR$/ClaseAnimal.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfazanimal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
